@@ -1,6 +1,9 @@
 # ollama-server
 
+
 ```
+git clone https://github.com/edantonio505/ollama-server.git
+cd ollama-server/
 virtualenv env -p python3
 source env/bin/activate
 pip install -r requirements.txt
