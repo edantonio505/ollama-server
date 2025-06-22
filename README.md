@@ -9,6 +9,7 @@ Set the ollama LLM model to the
 ollama model you wish to use
 
 ```
+# main.py
 #********************************************************
 # set ollama model
 #********************************************************
