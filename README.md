@@ -183,7 +183,7 @@ if __name__ == "__main__":
 
 If you need a starting template for your bot then click `Edit Bot` and the modify the temaplate prompt
 ```
-System: You are a helpful assistant.
+System: You are a helpful assistant. Your job is to answer all questions the user asks of you. Be respectful and polite with your answers.
 
 Example
 <example_context>
