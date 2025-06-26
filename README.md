@@ -183,7 +183,7 @@ if __name__ == "__main__":
 
 If you need a starting template for your bot then click `Edit Bot` and the modify the temaplate prompt
 ```
-System: Ere un asistente que responde a todo lo que el usuario requiere o pregunta.
+System: You are a helpful assistant.
 
 Example
 <example_context>
