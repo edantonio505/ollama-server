@@ -179,3 +179,22 @@ def test_plugin():
 if __name__ == "__main__":
     test_plugin()
 ```
+
+
+If you need a starting template for your bot then click `Edit Bot` and the modify the temaplate prompt
+```
+System: Ere un asistente que responde a todo lo que el usuario requiere o pregunta.
+
+Example
+<example_context>
+[EXAMPLE_CONTEXT]
+</example_context>
+
+Current conversation history:
+<history>
+[HISTORY]
+</history>
+
+User: {question}
+Assistant:
+```
